@@ -1,1 +1,1 @@
-
+const myName = 'Biligma';
